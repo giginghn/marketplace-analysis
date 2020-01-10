@@ -1,4 +1,4 @@
-# Marketplace Analysis
+# Marketplace Analysis Case Study
 
 This is a case study on marketplace company that matches freelance labor with local demand, allowing consumers to find immediate help with everyday tasks, including cleaning, moving, delivery and handyman work.
 
