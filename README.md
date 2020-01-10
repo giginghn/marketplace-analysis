@@ -1,6 +1,6 @@
 # Marketplace Analysis Case Study
 
-This is a case study on marketplace company that matches freelance labor with local demand, allowing consumers to find immediate help with everyday tasks, including cleaning, moving, delivery and handyman work.
+This is a case study on two-sided marketplace company that matches freelance labor with local demand, allowing consumers to find immediate help with everyday tasks, including cleaning, moving, delivery and handyman work.
 
 ## Case Study
 I decided to take a closer look at performance in two of its largest categories in the company - House
