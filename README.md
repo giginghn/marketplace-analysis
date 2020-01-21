@@ -4,7 +4,7 @@ This is a case study on two-sided marketplace company that matches freelance lab
 
 ## Case Study
 I decided to take a closer look at performance in two of its largest categories in the company - House
-Cleaning and Local Moving. I will then provide analysis on what types of pros our customers are interested in. I will also provide my recommendations for how we can improve and grow the company's marketplace.
+Cleaning and Local Moving. I will then provide analysis on what types of pros customers are interested in. I will also provide my recommendations for how the company can improve and grow their marketplace.
 
 For the privacy of the data, I will only make the dataset visible in this Jupyter Notebook without posting the actual data on github.
 
